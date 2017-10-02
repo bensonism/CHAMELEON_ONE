@@ -84,7 +84,7 @@ I also have another mixing which will create rem values as well as fallback pixe
 }
 ```
 
-
+.. More documentation on all mixins to come
 
 ### GRUNT Tasks
 
@@ -102,7 +102,7 @@ spritesheet and a sass file with all the images for easy use.
 - Javascript minification and uglification
 runs as part of the default task
 
----
+.. More documentation on all grunt tasks to come
 
 
 
