@@ -4,8 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "grunt",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "help": "grunt --help"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "autoprefixer": "^7.1.1",
