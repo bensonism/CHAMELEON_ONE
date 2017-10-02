@@ -1,0 +1,32 @@
+{
+	"default": [
+		"prepare",
+		"build"
+	],
+	"build": [
+		"watch"
+	],
+	"style": [
+		"sass"
+	],	
+	"prepare": [
+		"concat",
+		"uglify",
+		"imagemin",
+		"sprite:standard"		
+	],
+	"goLive": [
+		"imagemin",
+		"shell:wp_regenerate"	
+	],
+	"build2": [
+		"sass",
+		"concat",
+		"uglify",
+		"sprite:standard",
+		"sprite:retina",
+		"shell:wp_regenerate",
+		"shell:start",		
+		"makepot"
+	]
+}

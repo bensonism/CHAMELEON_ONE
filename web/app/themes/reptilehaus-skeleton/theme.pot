@@ -1,0 +1,1323 @@
+# <!=Copyright (C) 2017 REPTILEHAUS
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: REPTILEHAUS WP Boilerplate Theme 4.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/\n"
+"POT-Creation-Date: 2017-10-02 13:26:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: 404.php:5
+msgid "Epic 404 - Article Not Found"
+msgstr ""
+
+#: 404.php:8
+msgid "The article you were looking for was not found, but maybe try looking again!"
+msgstr ""
+
+#: 404.php:14
+msgid "This is the 404.php template."
+msgstr ""
+
+#: archive.php:13 index.php:10 page-homepage.php:289 page-query-loop.php:13
+#: page.php:9 single.php:7
+msgid "Posted"
+msgstr ""
+
+#: archive.php:17 index.php:14 page-homepage.php:293 page-query-loop.php:17
+#: page.php:13 single.php:11
+msgid "by"
+msgstr ""
+
+#: archive.php:32 index.php:27 page-homepage.php:304 page-query-loop.php:57
+#: page.php:26 single.php:47 taxonomy-custom_cat.php:36
+msgid "Oops, Post Not Found!"
+msgstr ""
+
+#: archive.php:35 index.php:30 page-homepage.php:307 page-query-loop.php:60
+#: page.php:29 single.php:50 taxonomy-custom_cat.php:39
+msgid "Uh Oh. Something is missing. Try double checking things."
+msgstr ""
+
+#: archive.php:38
+msgid "This is the error message in the archive.php template."
+msgstr ""
+
+#: author.php:6
+msgid "Author Archives: %s"
+msgstr ""
+
+#: author.php:9
+msgid "About %s"
+msgstr ""
+
+#: category.php:5
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:10
+msgid "<span>No</span> Comments"
+msgstr ""
+
+#: comments.php:10
+msgid "<span>One</span> Comment"
+msgstr ""
+
+#: comments.php:10
+msgid "<span>%</span> Comments"
+msgstr ""
+
+#: comments.php:20
+msgid "Reply"
+msgstr ""
+
+#: comments.php:31
+msgid "&larr; Previous Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "More Comments &rarr;"
+msgstr ""
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:90
+msgid "No older posts found"
+msgstr ""
+
+#: inc/classes/custom_taxonomy_meta/Tax-meta-class.php:370
+#: inc/classes/custom_taxonomy_meta/Tax-meta-class.php:417
+#: inc/options/options/fields/multi_text/field_multi_text.php:39
+#: inc/options/options/fields/multi_text/field_multi_text.php:46
+#: inc/options/options/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr ""
+
+#: inc/classes/custom_taxonomy_meta/Tax-meta-class.php:383
+msgid "Add"
+msgstr ""
+
+#: inc/classes/custom_taxonomy_meta/Tax-meta-class.php:716
+msgid "Remove Image"
+msgstr ""
+
+#: inc/classes/custom_taxonomy_meta/Tax-meta-class.php:718
+msgid "Upload Image"
+msgstr ""
+
+#: inc/classes/custom_taxonomy_meta/Tax-meta-class.php:738
+msgid "Select a color"
+msgstr ""
+
+#: inc/classes/jigsaw/jigsaw-bootstrap.php:16
+msgid "Home"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:12
+msgid "Add New CPT 1"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:13
+msgid "Edit CPT 1"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:14
+msgid "New CPT 1"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:15
+msgid "All CPT 1s"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:16
+msgid "View CPT 1"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:17
+msgid "Search CPT 1"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:18
+msgid "No CPT 1 found"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:19
+msgid "No CPT 1 found in Trash"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:21
+msgid "CPT 1"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:46
+msgid "Add New CPT 2"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:47
+msgid "Edit CPT 2"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:48
+msgid "New CPT 2"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:49
+msgid "All CPT 2s"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:50
+msgid "View CPT 2"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:51
+msgid "Search CPT 2"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:52
+msgid "No CPT 2 found"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:53
+msgid "No CPT 2 found in Trash"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:55
+msgid "CPT 2"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:11
+msgid "Search TAX 1"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:12
+msgid "All TAX 1"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:13
+msgid "Parent TAX 1"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:14
+msgid "Parent TAX 1:"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:15
+msgid "Edit TAX 1"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:16
+msgid "Update TAX 1"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:17
+msgid "Add New TAX 1"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:18
+msgid "New TAX 1 Name"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:19
+msgid "TAX 1"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:35
+msgid "Search TAX 2"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:36
+msgid "All TAX 2"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:37
+msgid "Parent TAX 2"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:38
+msgid "Parent TAX 2:"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:39
+msgid "Edit TAX 2"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:40
+msgid "Update TAX 2"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:41
+msgid "Add New TAX 2"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:42
+msgid "New TAX 2 Name"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:43
+msgid "TAX 2"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:59
+msgid "Search TAX 3"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:60
+msgid "All TAX 3"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:61
+msgid "Parent TAX 3"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:62
+msgid "Parent TAX 3:"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:63
+msgid "Edit TAX 3"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:64
+msgid "Update TAX 3"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:65
+msgid "Add New TAX 3"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:66
+msgid "New TAX 3 Name"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:67
+msgid "TAX 3"
+msgstr ""
+
+#: inc/functions/cleanup-functions.php:10
+msgid "Links"
+msgstr ""
+
+#: inc/functions/cleanup-functions.php:10
+msgid "Comments"
+msgstr ""
+
+#: inc/functions/cleanup-functions.php:97
+msgid "No feed available."
+msgstr ""
+
+#: inc/functions/cleanup-functions.php:169
+msgid "Sidebar"
+msgstr ""
+
+#: inc/functions/helpers.php:377
+msgid "Page"
+msgstr ""
+
+#: inc/functions/optional.php:43 searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: inc/functions/widgets.php:59
+msgid "WPBeginner Widget"
+msgstr ""
+
+#: inc/functions/widgets.php:62
+msgid "Sample widget based on WPBeginner Tutorial"
+msgstr ""
+
+#: inc/functions/widgets.php:76
+msgid "Hello, World!"
+msgstr ""
+
+#: inc/functions/widgets.php:86
+msgid "New title"
+msgstr ""
+
+#: inc/functions/widgets.php:91
+#: inc/widget/menu-hierarchy-widget/menu-hierarchy-widget.php:66
+#: inc/widget/menu-widget/menu-widget.php:62
+#: inc/widget/tag-block/tag-block.php:66
+msgid "Title:"
+msgstr ""
+
+#: inc/functions/widgets.php:135
+msgid "Laughter Lounge Subscribe Widget"
+msgstr ""
+
+#: inc/functions/widgets.php:136
+msgid "Adds a subscription form to a widgetised area"
+msgstr ""
+
+#: inc/functions/widgets.php:167
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:38
+#: inc/widget/image-advert-widget/views/widget-admin.php:33
+msgid "Link"
+msgstr ""
+
+#: inc/functions/widgets.php:172
+msgid "Song Info:"
+msgstr ""
+
+#: inc/menus.php:6
+#: inc/widget/menu-hierarchy-widget/menu-hierarchy-widget.php:62
+#: inc/widget/menu-widget/menu-widget.php:58
+msgid "Main"
+msgstr ""
+
+#: inc/menus.php:7
+msgid "Footer-A"
+msgstr ""
+
+#: inc/menus.php:8
+msgid "Footer-B"
+msgstr ""
+
+#: inc/menus.php:9
+msgid "Footer-C"
+msgstr ""
+
+#: inc/menus.php:10
+msgid "Footer-Language"
+msgstr ""
+
+#: inc/options/nhp-options.php:26
+msgid "A Section added by hook"
+msgstr ""
+
+#: inc/options/nhp-options.php:27
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to "
+"the sections array, great to allow child themes, to add/remove sections "
+"from the options.</p>"
+msgstr ""
+
+#: inc/options/nhp-options.php:85
+msgid ""
+"<p>This is the HTML which can be displayed before the form, it isnt "
+"required, but more info is always better. Anything goes in terms of markup "
+"here, any HTML.</p>"
+msgstr ""
+
+#: inc/options/nhp-options.php:109
+msgid "Theme Options"
+msgstr ""
+
+#: inc/options/nhp-options.php:112
+msgid "REPTILEHAUS Theme Options"
+msgstr ""
+
+#: inc/options/nhp-options.php:139
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/options/nhp-options.php:140 inc/options/nhp-options.php:145
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/options/nhp-options.php:144
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/options/nhp-options.php:149
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/options/nhp-options.php:156
+msgid "Getting Started"
+msgstr ""
+
+#: inc/options/nhp-options.php:157
+msgid ""
+"<p class=\"description\">This is the description field for the Section. "
+"HTML is allowed</p>"
+msgstr ""
+
+#: inc/options/nhp-options.php:168
+msgid "Text Fields"
+msgstr ""
+
+#: inc/options/nhp-options.php:169
+msgid "<p class=\"description\">This is the Description. Again HTML is allowed2</p>"
+msgstr ""
+
+#: inc/options/nhp-options.php:175
+msgid "Text Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:176 inc/options/nhp-options.php:187
+#: inc/options/nhp-options.php:197
+msgid ""
+"This is a little space under the Field Title in the Options table, "
+"additonal info is good in here."
+msgstr ""
+
+#: inc/options/nhp-options.php:177 inc/options/nhp-options.php:188
+#: inc/options/nhp-options.php:198 inc/options/nhp-options.php:205
+#: inc/options/nhp-options.php:214 inc/options/nhp-options.php:224
+#: inc/options/nhp-options.php:234 inc/options/nhp-options.php:243
+#: inc/options/nhp-options.php:253 inc/options/nhp-options.php:263
+#: inc/options/nhp-options.php:272 inc/options/nhp-options.php:281
+#: inc/options/nhp-options.php:290 inc/options/nhp-options.php:300
+#: inc/options/nhp-options.php:308 inc/options/nhp-options.php:317
+#: inc/options/nhp-options.php:332 inc/options/nhp-options.php:340
+#: inc/options/nhp-options.php:349 inc/options/nhp-options.php:358
+#: inc/options/nhp-options.php:392 inc/options/nhp-options.php:401
+#: inc/options/nhp-options.php:417 inc/options/nhp-options.php:425
+#: inc/options/nhp-options.php:433 inc/options/nhp-options.php:440
+#: inc/options/nhp-options.php:449 inc/options/nhp-options.php:586
+#: inc/options/nhp-options.php:597 inc/options/nhp-options.php:609
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: inc/options/nhp-options.php:186
+msgid "Text Option - Email Validated"
+msgstr ""
+
+#: inc/options/nhp-options.php:196
+msgid "Multi Text Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:203
+msgid "Text Option - URL Validated"
+msgstr ""
+
+#: inc/options/nhp-options.php:204
+msgid "This must be a URL."
+msgstr ""
+
+#: inc/options/nhp-options.php:212
+msgid "Text Option - Numeric Validated"
+msgstr ""
+
+#: inc/options/nhp-options.php:213
+msgid "This must be numeric."
+msgstr ""
+
+#: inc/options/nhp-options.php:222
+msgid "Text Option - Comma Numeric Validated"
+msgstr ""
+
+#: inc/options/nhp-options.php:223
+msgid "This must be a comma seperated string of numerical values."
+msgstr ""
+
+#: inc/options/nhp-options.php:232
+msgid "Text Option - No Special Chars Validated"
+msgstr ""
+
+#: inc/options/nhp-options.php:233
+msgid "This must be a alpha numeric only."
+msgstr ""
+
+#: inc/options/nhp-options.php:241
+msgid "Text Option - Str Replace Validated"
+msgstr ""
+
+#: inc/options/nhp-options.php:242 inc/options/nhp-options.php:252
+#: inc/options/nhp-options.php:262
+msgid "You decide."
+msgstr ""
+
+#: inc/options/nhp-options.php:251
+msgid "Text Option - Preg Replace Validated"
+msgstr ""
+
+#: inc/options/nhp-options.php:261
+msgid "Text Option - Custom Callback Validated"
+msgstr ""
+
+#: inc/options/nhp-options.php:270
+msgid "Textarea Option - No HTML Validated"
+msgstr ""
+
+#: inc/options/nhp-options.php:271
+msgid "All HTML will be stripped"
+msgstr ""
+
+#: inc/options/nhp-options.php:279
+msgid "Textarea Option - HTML Validated"
+msgstr ""
+
+#: inc/options/nhp-options.php:280
+msgid "HTML Allowed (wp_kses)"
+msgstr ""
+
+#: inc/options/nhp-options.php:288
+msgid "Textarea Option - HTML Validated Custom"
+msgstr ""
+
+#: inc/options/nhp-options.php:289
+msgid "Custom HTML Allowed (wp_kses)"
+msgstr ""
+
+#: inc/options/nhp-options.php:298
+msgid "Textarea Option - JS Validated"
+msgstr ""
+
+#: inc/options/nhp-options.php:299
+msgid "JS will be escaped"
+msgstr ""
+
+#: inc/options/nhp-options.php:306
+msgid "Editor Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:307 inc/options/nhp-options.php:316
+msgid "Can also use the validation methods if required"
+msgstr ""
+
+#: inc/options/nhp-options.php:315
+msgid "Editor Option 2"
+msgstr ""
+
+#: inc/options/nhp-options.php:324
+msgid "Radio/Checkbox Fields"
+msgstr ""
+
+#: inc/options/nhp-options.php:325 inc/options/nhp-options.php:385
+#: inc/options/nhp-options.php:410 inc/options/nhp-options.php:579
+msgid "<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+#: inc/options/nhp-options.php:330
+msgid "Checkbox Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:331 inc/options/nhp-options.php:339
+#: inc/options/nhp-options.php:348 inc/options/nhp-options.php:357
+#: inc/options/nhp-options.php:371 inc/options/nhp-options.php:391
+#: inc/options/nhp-options.php:400 inc/options/nhp-options.php:432
+#: inc/options/nhp-options.php:439 inc/options/nhp-options.php:448
+#: inc/options/nhp-options.php:455 inc/options/nhp-options.php:463
+#: inc/options/nhp-options.php:471 inc/options/nhp-options.php:479
+#: inc/options/nhp-options.php:487 inc/options/nhp-options.php:495
+#: inc/options/nhp-options.php:503 inc/options/nhp-options.php:511
+#: inc/options/nhp-options.php:519 inc/options/nhp-options.php:527
+#: inc/options/nhp-options.php:540 inc/options/nhp-options.php:547
+#: inc/options/nhp-options.php:554
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: inc/options/nhp-options.php:338
+msgid "Multi Checkbox Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:347
+msgid "Radio Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:356
+msgid "Radio Image Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:370
+msgid "Radio Image Option For Layout"
+msgstr ""
+
+#: inc/options/nhp-options.php:372
+msgid "This uses some of the built in images, you can use them for layout options."
+msgstr ""
+
+#: inc/options/nhp-options.php:384
+msgid "Select Fields"
+msgstr ""
+
+#: inc/options/nhp-options.php:390
+msgid "Select Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:399
+msgid "Multi Select Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:409
+msgid "Custom Fields"
+msgstr ""
+
+#: inc/options/nhp-options.php:415
+msgid "Color Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:416 inc/options/nhp-options.php:424
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: inc/options/nhp-options.php:423
+msgid "Color Gradient Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:431
+msgid "Date Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:438
+msgid "Button Set Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:447
+msgid "Upload Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:454
+msgid "Pages Select Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:456
+msgid "This field creates a drop down menu of all the sites pages."
+msgstr ""
+
+#: inc/options/nhp-options.php:462
+msgid "Pages Multiple Select Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:464
+msgid "This field creates a Multi Select menu of all the sites pages."
+msgstr ""
+
+#: inc/options/nhp-options.php:470
+msgid "Posts Select Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:472
+msgid "This field creates a drop down menu of all the sites posts."
+msgstr ""
+
+#: inc/options/nhp-options.php:478
+msgid "Posts Multiple Select Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:480
+msgid "This field creates a Multi Select menu of all the sites posts."
+msgstr ""
+
+#: inc/options/nhp-options.php:486
+msgid "Tags Select Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:488
+msgid "This field creates a drop down menu of all the sites tags."
+msgstr ""
+
+#: inc/options/nhp-options.php:494
+msgid "Tags Multiple Select Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:496
+msgid "This field creates a Multi Select menu of all the sites tags."
+msgstr ""
+
+#: inc/options/nhp-options.php:502
+msgid "Cats Select Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:504
+msgid "This field creates a drop down menu of all the sites cats."
+msgstr ""
+
+#: inc/options/nhp-options.php:510
+msgid "Cats Multiple Select Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:512
+msgid "This field creates a Multi Select menu of all the sites cats."
+msgstr ""
+
+#: inc/options/nhp-options.php:518
+msgid "Menu Select Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:520
+msgid "This field creates a drop down menu of all the sites menus."
+msgstr ""
+
+#: inc/options/nhp-options.php:526
+msgid "Select Hide Below Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:528
+msgid ""
+"This field requires certain options to be checked before the below field "
+"will be shown."
+msgstr ""
+
+#: inc/options/nhp-options.php:539
+msgid "Menu Location Select Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:541
+msgid "This field creates a drop down menu of all the themes menu locations."
+msgstr ""
+
+#: inc/options/nhp-options.php:546
+msgid "Checkbox to hide below"
+msgstr ""
+
+#: inc/options/nhp-options.php:548
+msgid ""
+"This field creates a checkbox which will allow the user to use the next "
+"setting."
+msgstr ""
+
+#: inc/options/nhp-options.php:553
+msgid "Post Type Select Option"
+msgstr ""
+
+#: inc/options/nhp-options.php:555
+msgid "This field creates a drop down menu of all registered post types."
+msgstr ""
+
+#: inc/options/nhp-options.php:561
+msgid "Custom Field Callback"
+msgstr ""
+
+#: inc/options/nhp-options.php:562 inc/options/nhp-options.php:570
+msgid "This is a completely unique field type"
+msgstr ""
+
+#: inc/options/nhp-options.php:563
+msgid ""
+"This is created with a callback function, so anything goes in this field. "
+"Make sure to define the function though."
+msgstr ""
+
+#: inc/options/nhp-options.php:569
+msgid "Google Webfonts"
+msgstr ""
+
+#: inc/options/nhp-options.php:571
+msgid ""
+"This is a simple implementation of the developer API for Google webfonts. "
+"Preview selection will be coming in future releases."
+msgstr ""
+
+#: inc/options/nhp-options.php:578
+msgid "Non Value Fields"
+msgstr ""
+
+#: inc/options/nhp-options.php:584 inc/options/nhp-options.php:595
+#: inc/options/nhp-options.php:607
+msgid "Text Field"
+msgstr ""
+
+#: inc/options/nhp-options.php:585 inc/options/nhp-options.php:596
+#: inc/options/nhp-options.php:608
+msgid "Additional Info"
+msgstr ""
+
+#: inc/options/nhp-options.php:602
+msgid ""
+"<p class=\"description\">This is the info field, if you want to break "
+"sections up.</p>"
+msgstr ""
+
+#: inc/options/nhp-options.php:634
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: inc/options/nhp-options.php:635
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: inc/options/nhp-options.php:636
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: inc/options/nhp-options.php:638
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: inc/options/nhp-options.php:645
+msgid "Theme Information"
+msgstr ""
+
+#: inc/options/nhp-options.php:652
+msgid "Documentation"
+msgstr ""
+
+#: inc/options/options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr ""
+
+#: inc/options/options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr ""
+
+#: inc/options/options/fields/google_webfonts/field_google_webfonts.php:42
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a "
+"href=\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a>.<br/>Please <a href=\"http://www.google.com/webfonts\" "
+"target=\"_blank\">browse the directory</a> to preview a font, then select "
+"your choice below."
+msgstr ""
+
+#: inc/options/options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr ""
+
+#: inc/options/options/fields/upload/field_upload.php:39
+msgid "Browse"
+msgstr ""
+
+#: inc/options/options/fields/upload/field_upload.php:40
+msgid "Remove Upload"
+msgstr ""
+
+#: inc/options/options/options.php:49 inc/options/options/options.php:51
+msgid "Options"
+msgstr ""
+
+#: inc/options/options/options.php:247 inc/options/options/options.php:248
+#: inc/options/options/options.php:681
+msgid "Import / Export"
+msgstr ""
+
+#: inc/options/options/options.php:274 inc/options/options/options.php:275
+#: inc/options/options/options.php:700 inc/options/options/options.php:782
+msgid "Dev Mode Info"
+msgstr ""
+
+#: inc/options/options/options.php:330
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#: inc/options/options/options.php:647 inc/options/options/options.php:807
+msgid "Reset to Defaults"
+msgstr ""
+
+#: inc/options/options/options.php:653
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: inc/options/options/options.php:655
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: inc/options/options/options.php:659
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#: inc/options/options/options.php:660
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: inc/options/options/options.php:662
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: inc/options/options/options.php:718
+msgid "Import / Export Options"
+msgstr ""
+
+#: inc/options/options/options.php:720
+msgid "Import Options"
+msgstr ""
+
+#: inc/options/options/options.php:728
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: inc/options/options/options.php:741
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: inc/options/options/options.php:751
+msgid "Import"
+msgstr ""
+
+#: inc/options/options/options.php:751
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: inc/options/options/options.php:754
+msgid "Export Options"
+msgstr ""
+
+#: inc/options/options/options.php:756
+msgid ""
+"Here you can copy/download your themes current option settings. Keep this "
+"safe as you can use it as a backup should anything go wrong. Or you can use "
+"it to restore your settings on this site (or any other site). You also have "
+"the handy option to copy the link to yours sites settings. Which you can "
+"then use to duplicate on another site"
+msgstr ""
+
+#: inc/options/options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: inc/options/options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid "You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: inc/options/options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: inc/options/options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: inc/options/options/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: inc/options/options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: inc/options/options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: inc/options/options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: inc/widget/image-advert-widget/full-width-ad.php:26
+#: inc/widget/image-advert-widget/image-widget.php:26
+msgid "Advert or Image Widget with a Title, URL, and a Description"
+msgstr ""
+
+#: inc/widget/image-advert-widget/full-width-ad.php:28
+msgid "FW Advert Widget"
+msgstr ""
+
+#: inc/widget/image-advert-widget/full-width-ad.php:39
+#: inc/widget/image-advert-widget/image-widget.php:39
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:15
+#: inc/widget/image-advert-widget/views/widget-admin.php:10
+msgid "Select an Image"
+msgstr ""
+
+#: inc/widget/image-advert-widget/full-width-ad.php:40
+#: inc/widget/image-advert-widget/image-widget.php:40
+#: inc/widget/image-advert-widget/lib/ImageWidgetDeprecated.php:66
+msgid "Insert Into Widget"
+msgstr ""
+
+#: inc/widget/image-advert-widget/image-widget.php:28
+msgid "Image/Advert Widget"
+msgstr ""
+
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:25
+#: inc/widget/image-advert-widget/views/widget-admin.php:20
+msgid "Title"
+msgstr ""
+
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:28
+#: inc/widget/image-advert-widget/views/widget-admin.php:23
+msgid "Alternate Text"
+msgstr ""
+
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:31
+#: inc/widget/image-advert-widget/views/widget-admin.php:26
+msgid "Related"
+msgstr ""
+
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:33
+#: inc/widget/image-advert-widget/views/widget-admin.php:28
+msgid ""
+"A recommended HTML5 related terms list is available <a "
+"href=\"http://microformats.org/wiki/existing-rel-values#HTML5_link_type_"
+"extensions\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:35
+#: inc/widget/image-advert-widget/views/widget-admin.php:30
+msgid "Caption"
+msgstr ""
+
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:40
+#: inc/widget/image-advert-widget/views/widget-admin.php:35
+msgid "Link ID"
+msgstr ""
+
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:43
+#: inc/widget/image-advert-widget/views/widget-admin.php:38
+msgid "Stay in Window"
+msgstr ""
+
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:44
+#: inc/widget/image-advert-widget/views/widget-admin.php:39
+msgid "Open New Window"
+msgstr ""
+
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:51
+#: inc/widget/image-advert-widget/views/widget-admin.php:46
+msgid "Size"
+msgstr ""
+
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:63
+#: inc/widget/image-advert-widget/views/widget-admin.php:58
+msgid "Width"
+msgstr ""
+
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:66
+#: inc/widget/image-advert-widget/views/widget-admin.php:61
+msgid "Height"
+msgstr ""
+
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:71
+#: inc/widget/image-advert-widget/views/widget-admin.php:66
+msgid "Align"
+msgstr ""
+
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:73
+#: inc/widget/image-advert-widget/views/widget-admin.php:68
+msgid "none"
+msgstr ""
+
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:74
+#: inc/widget/image-advert-widget/views/widget-admin.php:69
+msgid "left"
+msgstr ""
+
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:75
+#: inc/widget/image-advert-widget/views/widget-admin.php:70
+msgid "center"
+msgstr ""
+
+#: inc/widget/image-advert-widget/views/back.widget.admin.php:76
+#: inc/widget/image-advert-widget/views/widget-admin.php:71
+msgid "right"
+msgstr ""
+
+#: inc/widget/menu-hierarchy-widget/menu-hierarchy-widget.php:20
+msgid "Sidebar Hierarhical Menu Widget"
+msgstr ""
+
+#: inc/widget/menu-hierarchy-widget/menu-hierarchy-widget.php:21
+msgid "Displays links relating to parent pages in the sidebar"
+msgstr ""
+
+#: inc/widget/menu-widget/menu-widget.php:20
+msgid "Sidebar Menu Widget"
+msgstr ""
+
+#: inc/widget/menu-widget/menu-widget.php:21
+msgid "Mirrors the main navigation bars links"
+msgstr ""
+
+#: inc/widget/search-widget/search-widget.php:20
+msgid "Sidebar Search Widget"
+msgstr ""
+
+#: inc/widget/search-widget/search-widget.php:21
+msgid "Sidebar Search"
+msgstr ""
+
+#: inc/widget/tag-block/tag-block.php:20
+msgid "Sidebar Tags Widget"
+msgstr ""
+
+#: inc/widget/tag-block/tag-block.php:21
+msgid "Sidebar Tag List"
+msgstr ""
+
+#: inc/widget/tag-block/tag-block.php:63
+msgid "FILTER RECIPES BY"
+msgstr ""
+
+#: inc/widget/widgets.php:6
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: inc/widget/widgets.php:8
+msgid "Main Global Sidebar"
+msgstr ""
+
+#: inc/widget/widgets.php:16
+msgid "Footer Widget Area"
+msgstr ""
+
+#: inc/widget/widgets.php:18
+msgid "Global Footer Widget"
+msgstr ""
+
+#: index.php:33 page-homepage.php:310 page-query-loop.php:63 page.php:32
+msgid "This is the error message in the index.php template."
+msgstr ""
+
+#: page-query-loop.php:49
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: search.php:3
+msgid "Search Results for:"
+msgstr ""
+
+#: search.php:14
+msgid "Posted %1$s by %2$s"
+msgstr ""
+
+#: search.php:25
+msgid "Read more &raquo;"
+msgstr ""
+
+#: search.php:32
+msgid "Filed under: %1$s"
+msgstr ""
+
+#: search.php:35 single.php:40
+msgid "Tags:"
+msgstr ""
+
+#: search.php:45
+msgid "Sorry, No Results."
+msgstr ""
+
+#: search.php:48
+msgid "Try your search again."
+msgstr ""
+
+#: search.php:51
+msgid "This is the error message in the search.php template."
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: sidebar.php:12
+msgid "This is a widget ready area. Add some and they will appear here."
+msgstr ""
+
+#: single.php:31
+msgid "Pages:"
+msgstr ""
+
+#: single.php:39
+msgid "filed under"
+msgstr ""
+
+#: single.php:53
+msgid "This is the error message in the single.php template."
+msgstr ""
+
+#: taxonomy-custom_cat.php:15
+msgid "Posts Categorized:"
+msgstr ""
+
+#: taxonomy-custom_cat.php:24
+msgid ""
+"Posted <time class=\"updated\" datetime=\"%1$s\" "
+"itemprop=\"datePublished\">%2$s</time> by <span "
+"class=\"author\">%3$s</span> <span class=\"amp\">&</span> filed under %4$s."
+msgstr ""
+
+#: taxonomy-custom_cat.php:24
+msgid "F jS, Y"
+msgstr ""
+
+#: taxonomy-custom_cat.php:29
+msgid "Read More &raquo;"
+msgstr ""
+
+#: taxonomy-custom_cat.php:42
+msgid "This is the error message in the taxonomy-custom_cat.php template."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "REPTILEHAUS WP Boilerplate Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.reptilehaus.io"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This theme was built by REPTILEHAUS and is packed with features including "
+"out trademark REPTILE_FRAMEWORK which boasts Increased Site Speed, "
+"Security, SEO Micro Formats and lots more going on under the bonnet. We "
+"hope you enjoy your new website as much as we did building it."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "REPTILEHAUS"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Query Loop"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:9
+msgctxt "post type general name"
+msgid "CPT 1"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:43
+msgctxt "post type general name"
+msgid "CPT 2"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:10
+msgctxt "post type singular name"
+msgid "CPT 1"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:44
+msgctxt "post type singular name"
+msgid "CPT 2"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:11
+msgctxt "CPT 1"
+msgid "Add New"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_post_types.php:45
+msgctxt "CPT 2"
+msgid "Add New"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:9
+msgctxt "taxonomy general name"
+msgid "TAX 1"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:33
+msgctxt "taxonomy general name"
+msgid "TAX 2"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:57
+msgctxt "taxonomy general name"
+msgid "TAX 3"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:10
+msgctxt "taxonomy singular name"
+msgid "TAX 1"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:34
+msgctxt "taxonomy singular name"
+msgid "TAX 2"
+msgstr ""
+
+#: inc/cpt-taxonomies/custom_taxonomies.php:58
+msgctxt "taxonomy singular name"
+msgid "TAX 3"
+msgstr ""

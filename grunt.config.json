@@ -1,0 +1,45 @@
+{
+    "theme-name": "reptilehaus-skeleton",  
+    "shell": {
+        "dev_url": "http://www.demosite.io/",
+        "dev_path": "/Applications/MAMP/htdocs/REPTILEHAUS/Development/WP_SKELETON2/web" 
+    },        
+    "libs": {
+        "js": [ "bower_components/jquery/dist/jquery.min.js",
+                "bower_components/masonry/dist/masonry.pkgd.min.js",  
+                "bower_components/mixitup2/dist/mixitup.min.js",          
+                "bower_components/lity/dist/lity.min.js", 
+                "bower_components/remodal/dist/remodal.min.js",
+                "bower_components/slick-carousel/slick/slick.min.js",   
+                "bower_components/fancybox/source/jquery.fancybox.js",
+                "bower_components/fancybox/source/helpers/jquery.fancybox-media.js" ]
+    },           
+    "directory_uri": "./web/app/themes/reptilehaus-skeleton/**/{*.php,*.html,*.js}",  
+    "directory_sass_uri": "./src/sass/**/*.scss",        
+    "source_js_directory": "./src/js/",    
+    "production_css_path": "./web/app/themes/reptilehaus-skeleton/assets/css/style.min.css",  
+    "production_js_path_nonmin": "./web/app/themes/reptilehaus-skeleton/assets/js/production.js", 
+    "production_js_path_final": "./web/app/themes/reptilehaus-skeleton/assets/js/production.min.js",          
+    "source_sass": "./src/sass/main.scss",       
+    "source_sprite_dir": "./src/sprite/", 
+    "production_sprite_generic": "./web/app/themes/reptilehaus-skeleton/assets/images/sprite.png",
+    "production_sprite_retina": "./web/app/themes/reptilehaus-skeleton/assets/images/sprite-2x.png",    
+    "source_sprite_sass": "./src/sass/common/_spritesheets.scss",
+    "source_sprite_images": "./src/sprite/**/*.png",     
+    "imagemin_src_dir": "./web/app/themes/reptilehaus-skeleton/assets/images/",   
+    "imagemin_dest_dir": "./web/app/themes/reptilehaus-skeleton/assets/images/",
+    "i18n": {
+        "send_bugs_to": "https://github.com/REPTILEHAUS/CHAMELEON__WP_Starter/issues",
+        "language_team": "REPTILEHAUS <hello@reptilehaus.io>",
+        "main_css_file": "./web/app/themes/reptilehaus-skeleton/style.css",
+        "files_to_internationalize": "./web/app/themes/reptilehaus-skeleton/",   
+        "output_lang_files_to": "/languages",   
+        "source_pot_file_lang_name": "en-us.pot"     
+    }     
+    
+    
+    
+    
+    
+    
+}

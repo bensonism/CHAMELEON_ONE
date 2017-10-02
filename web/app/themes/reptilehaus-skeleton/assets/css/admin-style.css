@@ -1,0 +1,15 @@
+#wpfooter, 
+#contextual-help-link-wrap, 
+#wpadminbar #wp-admin-bar-wp-logo>.ab-item .ab-icon,
+#wpadminbar #wp-admin-bar-wp-logo>.ab-item
+{
+    display: none !important;
+}
+
+
+
+.fixed .column-views {
+    width: 15%;
+}
+
+/* manage-column column-preview */

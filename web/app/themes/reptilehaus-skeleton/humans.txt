@@ -1,0 +1,19 @@
+Built By: Paddy O'Sullivan @REPTILEHAUS               
+
+Your title: Web Developer                           
+
+Email: hello@reptilehaus.io
+
+Site: www.reptilehaus.io  
+
+Twitter: @REPTILEHAUS                            
+
+Location: Dublin & Berlin
+
+# TECHNOLOGY
+
+    CSS3, HTML5, SASS, jQuery, Grunt, Bower, NPM, PatternLab, NodeJS
+    Apache, jQuery, Modernizr, Normalize.css
+
+                                          
+Last update: 2016

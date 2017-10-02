@@ -1,0 +1,29 @@
+{
+  "name": "reptilehaus-frontend-prototyping",
+  "description": "Build packages for REPTILEHAUS Prototype development",
+  "main": "",
+  "authors": [
+    "Paddy O Sullivan"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://www.reptilehaus.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "slick-carousel": "slick.js#^1.6.0",
+    "fancybox": "^2.1.5",
+    "jeet": "^7.0.0",
+    "animate-sass": "^0.6.6",
+    "lity": "^2.2.2",
+    "remodal": "^1.1.0",
+    "masonry": "^4.1.1",
+    "mixitup2": "^3.2.1"
+  }
+}

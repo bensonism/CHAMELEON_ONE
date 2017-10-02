@@ -1,0 +1,35 @@
+{
+  "name": "reptilehaus-chameleon",
+  "description": "Automating Everything in the Wordpress project lifecycle: Sprites, JS, SASS, L10n, Images etc",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "grunt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "autoprefixer": "^7.1.1",
+    "browserify": "^14.4.0",
+    "bs-html-injector": "^3.0.3",
+    "grunt": "~1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "grunt-shell": "^2.1.0",
+    "grunt-spritesmith": "^6.4.0",
+    "time-grunt": "^1.4.0"
+  },
+  "keywords": [
+    "Atomic Web Design",
+    "Node",
+    "Grunt",
+    "Javascript"
+  ],
+  "devDependencies": {
+    "grunt-wp-i18n": "^1.0.0",
+    "load-grunt-config": "^0.19.2"
+  }
+}
