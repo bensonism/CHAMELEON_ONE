@@ -11,15 +11,32 @@ Theres a lot to this theme and it is sloppy because I know where everything is e
 
 # Starting a project
 
-1) Create a virutal host on your OS via MAMP, Apache etc. Point localhost to the domain specified in the vhost. Install your dependancies via bower, yarn or npm.
+1) First step is to create a virutal host on your OS via MAMP,XAMPP, Apache etc and then point localhost to the domain specified in the vhost. 
 
-In the wp-config file there is a variable referencing:
+- If you are using MAMP on OSX you can do this by opening the following file "/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf" and adding an entry like this (obviosly replace with the path to where you have the site on your computer, the web folder references the web folder in this repo) and pick whatever domain you wish, it can be facebook.com if you really want:
+```
+ <VirtualHost *:80>
+          DocumentRoot "/Applications/MAMP/htdocs/REPTILEHAUS/Development/WP_SKELETON2/web"
+          ServerName www.demosite.io
+ </VirtualHost>
+```
+
+- Next up you need to map the domain you previously chose to your local environment.. on OSX you can do this by adding an entry to your hosts file "/Volumes/Macintosh HD/private/etc/hosts" like this:
+```
+127.0.0.1               www.demosite.io
+```
+
+- This is a bit of a pain to setup, which is why I have reduced this to 2 commands.. when this project takes off a bit il share my setup scripts but its important to manually learn these steps.
+
+
+- Install your dependancies via bower, yarn or npm.
+
+-- In the wp-config file there is a variable referencing the folloewing but this may change on the live server so keep that in mind:
 
 ```
 $webroot_dir = $root_dir . '/web';
 ```
 
-this may change on the live server so keep that in mind.
 
 2) find the paths to the files you are looking for and if they are to be used in a grunt task for instance Slick slider then you must add them to the grunt.config.json file in the libs->js section like here:
    ```
@@ -123,3 +140,8 @@ v. Some widgets are available under theme/inc/widgets (see function activation)
 
 
 
+# YOU GOT ISSUES MAAAAN
+- Any and all Issues to be submitted here
+```
+https://github.com/REPTILEHAUS/CHAMELEON_ONE/issues
+```
