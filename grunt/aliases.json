@@ -9,6 +9,15 @@
 	"style": [
 		"sass"
 	],	
+	"strip": [
+		"cssmin"
+	],	
+	"rem": [
+		"px_to_rem"
+	],
+	"cssprefixer": [
+		"postcss"
+	],	
 	"prepare": [
 		"concat",
 		"uglify",

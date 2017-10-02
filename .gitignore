@@ -10,6 +10,8 @@ sitemap.xml
 sitemap.xml.gz
 web/app/uploads/
 composer.lock
+style.min.css
+package-lock.json
 wp-cli.yml
 ehthumbs.db
 ._*
