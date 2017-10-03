@@ -78,9 +78,9 @@ using this mixin:
 
 * The default grunt task Ive written is all you need to get setup. when you type `grunt` it compiles your SASS, concatenates and minifies your javascript and generates a sprite from any PNG images you have in the designated sprites folder (./src/sprites).. pretty cool, but first its important to install your JS libraries via bower or npm then add them to the grunt.config.json file, otherwise nothing will happen. 
 
-... Open a terminal and type grunt to execute the default tasks (concat, minify, sprite gen) and then it will start to watch for changes to your SASS files for compiling..
+   Open a terminal and type grunt to execute the default tasks (concat, minify, sprite gen) and then it will start to watch for changes to your SASS files for compiling..
 
-... the SASS compilation is actually a number of tasks grouped together so its worth paying attention here, my sass compilationn also includes css minify that removes ALL comments, pixel to rem conversion with fallback to pixels, css auto-prefixer powered by can-i-use and of course, SASS compiled to CSS in your themes directory.
+   The SASS compilation is actually a number of tasks grouped together so its worth paying attention here, my sass compilationn also includes css minify that removes ALL comments, pixel to rem conversion with fallback to pixels, css auto-prefixer powered by can-i-use and of course, SASS compiled to CSS in your themes directory.
 
 ```javascript
 grunt
