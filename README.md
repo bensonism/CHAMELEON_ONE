@@ -1,4 +1,4 @@
-# CHAMELEON_ONE
+# Whats the Sh*t's and Giggles with this
 
 ## Introduction
 My name is Paddy O'Sullivan and Im a freelance full stack Developer from Ireland but currently living in Prague. For my sins I do a lot wordpress sites, because of this I have spent a lot of tme researching ways and frameworks that will speed up my development process and ensure that I get projects done with minimal fuss and as quickly as possible but without comprimising attention to detail.
