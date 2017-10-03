@@ -3,11 +3,7 @@
 		"prepare",
 		"build"
 	],
-	"build": [
-		"sass",
-		"concat",
-		"uglify",
-		"sprite:standard",		
+	"build": [	
 		"watch"
 	],
 	"style": [
@@ -23,7 +19,16 @@
 		"postcss"
 	],	
 	"prepare": [
-	
+		"sass",
+		"concat",
+		"uglify",
+		"sprite:standard"	
+	],
+	"updates": [
+		"shell:updates"
+	],
+	"setup": [
+		"shell:firsttime"		
 	],
 	"goLive": [
 		"imagemin",
