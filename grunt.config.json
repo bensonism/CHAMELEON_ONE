@@ -5,14 +5,16 @@
         "dev_path": "/Applications/MAMP/htdocs/REPTILEHAUS/Development/WP_SKELETON2/web" 
     },        
     "libs": {
-        "js": [ "bower_components/jquery/dist/jquery.min.js",
+        "js": [ 
+                "bower_components/jquery/dist/jquery.min.js",
                 "bower_components/masonry/dist/masonry.pkgd.min.js",  
                 "bower_components/mixitup2/dist/mixitup.min.js",          
                 "bower_components/lity/dist/lity.min.js", 
                 "bower_components/remodal/dist/remodal.min.js",
                 "bower_components/slick-carousel/slick/slick.min.js",   
                 "bower_components/fancybox/source/jquery.fancybox.js",
-                "bower_components/fancybox/source/helpers/jquery.fancybox-media.js" ]
+                "bower_components/fancybox/source/helpers/jquery.fancybox-media.js"
+            ]
     },           
     "directory_uri": "./web/app/themes/reptilehaus-skeleton/**/{*.php,*.html,*.js}",  
     "directory_sass_uri": "./src/sass/**/*.scss",        

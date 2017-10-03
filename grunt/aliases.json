@@ -4,6 +4,10 @@
 		"build"
 	],
 	"build": [
+		"sass",
+		"concat",
+		"uglify",
+		"sprite:standard",		
 		"watch"
 	],
 	"style": [
@@ -19,10 +23,7 @@
 		"postcss"
 	],	
 	"prepare": [
-		"concat",
-		"uglify",
-		"imagemin",
-		"sprite:standard"		
+	
 	],
 	"goLive": [
 		"imagemin",
@@ -36,6 +37,7 @@
 		"sprite:retina",
 		"shell:wp_regenerate",
 		"shell:start",		
-		"makepot"
+		"makepot",
+		"svg_sprite"		
 	]
 }

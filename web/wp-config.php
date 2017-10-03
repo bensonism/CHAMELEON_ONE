@@ -2,7 +2,7 @@
 
 $root_dir = dirname(__DIR__);
 
-echo $root_dir;
+// echo $root_dir;
 
 /** @var string Document Root */
 $webroot_dir = $root_dir . '/web';
