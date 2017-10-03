@@ -34,6 +34,9 @@
 		"imagemin",
 		"shell:wp_regenerate"	
 	],
+	"translate": [
+		"makepot"		
+	],
 	"build2": [
 		"sass",
 		"concat",

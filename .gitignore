@@ -5,6 +5,7 @@ bower_components/
 .DS_Store
 .htaccess
 .htpassword
+**/en-us.pot
 *.log
 sitemap.xml
 sitemap.xml.gz

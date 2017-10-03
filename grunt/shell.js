@@ -18,7 +18,13 @@ module.exports = {
         command: [ "sudo npm install -g bower-update-all",
                    "sudo npm install -g npm-check-updates",
                    "sudo npm install -g bower", 
-                   "sudo npm install -g grunt-cli",                 
+                   "sudo npm install -g grunt-cli", 
+                   "echo '######### Downloading the wp-cli #########'",
+                   "curl -O https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar",
+                   "php wp-cli.phar --info",
+                   "chmod +x wp-cli.phar",
+                   "sudo mv wp-cli.phar /usr/local/bin/wp",
+                   "wp --info"    
                  ].join('&&'),
         options: {
             callback: log
