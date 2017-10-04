@@ -52,3 +52,5 @@ testem.log
 .DS_Store
 Thumbs.db
 style.min.css.map
+grunt.config.json
+
